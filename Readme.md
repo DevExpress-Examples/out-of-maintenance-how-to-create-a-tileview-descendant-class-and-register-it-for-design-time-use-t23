@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/MyWinExplorerView/Form1.cs) (VB: [Form1.vb](./VB/MyWinExplorerView/Form1.vb))**
+* [MyGridControl.cs](./CS/MyWinExplorerView/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/MyWinExplorerView/MyGridControl.vb))
+* [MyTileView.cs](./CS/MyWinExplorerView/MyTileView.cs) (VB: [MyTileViewInfo.vb](./VB/MyWinExplorerView/MyTileViewInfo.vb))
+* [MyTileViewInfo.cs](./CS/MyWinExplorerView/MyTileViewInfo.cs) (VB: [MyTileViewInfo.vb](./VB/MyWinExplorerView/MyTileViewInfo.vb))
+* [MyTileViewInfoRegistrator.cs](./CS/MyWinExplorerView/MyTileViewInfoRegistrator.cs) (VB: [MyTileViewInfoRegistrator.vb](./VB/MyWinExplorerView/MyTileViewInfoRegistrator.vb))
+<!-- default file list end -->
 # How to create a TileView descendant class and register it for design-time use
 
 
